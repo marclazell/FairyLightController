@@ -3,6 +3,7 @@
 *.war
 *.ear
 FairyLightController.iml
+Unisys.iml
 FairyLightController.ipr
 FairyLightController.iws
 hs_err_pid*
